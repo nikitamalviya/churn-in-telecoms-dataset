@@ -16,4 +16,4 @@ https://www.kaggle.com/becksddf/notebook
 * Logistic Regression
 
 # Results :
-[!Results](results.png)
+![Results](results.png)
