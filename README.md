@@ -14,3 +14,6 @@ https://www.kaggle.com/becksddf/notebook
 * Random Forest Classifier
 * K Nearest Neighbor Classifier
 * Logistic Regression
+
+# Results :
+[!Results](results.png)
